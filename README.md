@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Iamaperson759
 - 👀 I’m interested in electronics engineering
 - 🌱 I’m currently learning how to program
-- 💞️ I’m looking to collaborate on things that help thers learn electrical engineering
+- 💞️ I’m looking to collaborate on things that help others learn electrical engineering
